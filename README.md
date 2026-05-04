@@ -1,9 +1,7 @@
 # RK35xx Kernel Patch: CVE-2026-31431 ("Copy Fail") 
-RK35xx CopyFail Hotfix: CVE-2026-31431 Patch for Ubuntu 24.04
+RK35xx CopyFail Hotfix: CVE-2026-31431 Patch for **Joshua Riek's Ubuntu 24.04**
 
 <img width="866" height="629" alt="fix" src="https://github.com/user-attachments/assets/18d38b7e-d68e-4a56-9f53-4e02db57ddd6" /><br>
-
-
 A community-provided, pre-compiled kernel patch for **all RK35xx single-board computers (Rock 5, Orange Pi 5, NanoPC, etc.)** running Joshua Riek's Ubuntu **24.04** (Kernel 6.1.0-1025-rockchip).
 
 ## 🚨 The Vulnerability
